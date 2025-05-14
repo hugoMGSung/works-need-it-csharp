@@ -1,6 +1,4 @@
 # WPF 포트폴리오  
- 
-<br/>
 
 ## Naver 영화검색
 - WPF (.NET Framework 4.7.2 / C#)
@@ -11,18 +9,11 @@
   - CefSharp WebBrowser component
   - EntityFramework DB
 
-<br/>
+  <img src="../../studyWpf/capture/interstellar.png" width="600">
 
-![NaverMovieFinder](https://raw.githubusercontent.com/hugoMGSung/works-need-it-cshap/main/studyWpf/capture/interstellar.png)
-실행화면
+  <img src="../../studyWpf/capture/youtube_trailer.png" width="600">
+  검색영화 예고편보기 실행화면
 
-<br/>
-
-![YoutubePlay](https://raw.githubusercontent.com/hugoMGSung/works-need-it-cshap/main/studyWpf/capture/youtube_trailer.png)
-검색영화 예고편보기 실행화면
-
-
-<br/>
 
 ## Naver 뉴스검색
 - WPF (.NET Framework 4.7.2 / C#)
