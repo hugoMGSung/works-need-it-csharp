@@ -13,6 +13,10 @@ C# 관련 작업 모두 모아두기
 - [링크](./basic-CSharp-2023/README.md)
 
 
+### Design Pattern
+- [링크](./design-pattern/README.md)
+
+
 ### C# Study BitCoin 파트
 - Elliptic Curve Digital Signature Algorithm (ECDSA) 암호화 방식을 사용
 - Private/Public 키를 사용
