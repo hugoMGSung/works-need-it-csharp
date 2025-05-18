@@ -16,6 +16,9 @@ C# 관련 작업 모두 모아두기
 ### Design Pattern
 - [링크](./design-pattern/README.md)
 
+### 주식 자동매매 
+- [링크](./csharp-autotrade/README.md)
+
 
 ### C# Study BitCoin 파트
 - Elliptic Curve Digital Signature Algorithm (ECDSA) 암호화 방식을 사용
